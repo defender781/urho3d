@@ -30,7 +30,8 @@
 
 ## Usage Examples 📊
 
-![image](https://github.com/user-attachments/assets/20f1050e-9f5c-48d2-82a8-8e5147f33343)
+![image](https://github.com/user-attachments/assets/e7b59c8b-6800-41a1-ba9b-db59eae0c232)
+
 
 
 
